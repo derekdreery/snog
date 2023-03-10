@@ -17,3 +17,7 @@ way that is *simple to use*, then feel free to PR.
 
 The word 'snog' is as an informal name for a sloppy kiss in the UK. The code in the crate may
 or may not be sloppy.
+
+## License
+
+The code in this repo is licensed under the MIT or Apache-2.0 license, at your discression.
