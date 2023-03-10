@@ -20,4 +20,4 @@ or may not be sloppy.
 
 ## License
 
-The code in this repo is licensed under the MIT or Apache-2.0 license, at your discression.
+The code in this repo is licensed under the MIT or Apache-2.0 license, at your discretion.
